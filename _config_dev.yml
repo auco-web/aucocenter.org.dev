@@ -5,10 +5,10 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'http://localhost:4002'
+url: 'http://localhost:4000'
 baseurl: ''
 projectname: ''
-urlimg: 'http://localhost:4002/images/'
+urlimg: 'http://localhost:4000/images/'
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
