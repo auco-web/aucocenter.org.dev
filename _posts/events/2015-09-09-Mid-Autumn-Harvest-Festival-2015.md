@@ -27,8 +27,8 @@ On September 26th, 2015, we invite you to attend the fifth Southeast Asian Arts 
 
 For more information, please contact:
 
-- Ms. Hang To at (415) 828-4754, or
-- Mr. Sirch Chanthyasack at (415) 680-4027,
+- Ms. Hang To at (415) 828-4754, or 
+- Mr. Sirch Chanthyasack at (415) 680-4027, 
 - or contact@seaacc-sf.org
 
 <img width="100%" src="http://74.220.215.61/~seaaccsf/en/images/2015/MAHF/Poster_web.jpg">
