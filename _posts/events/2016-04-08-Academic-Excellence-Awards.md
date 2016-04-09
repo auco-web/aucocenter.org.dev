@@ -11,7 +11,7 @@ categories:
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-Every year the Au Co Vietnamese Cultural Center and the Academic Awards Foundation recognizes students of Vietnamese descent who have excelled   academically in an annual awards ceremony. At the end of the academic school year, qualified students from San Francisco schools and other schools in the surrounding area attend this momentous event which honors their academic achievements in front of friends and family. Multiple scholarships of at least $1,000 each are also awarded to qualified 12th grade applicants who have been accepted into college.
+At the end of the academic school year, qualified students from San Francisco schools and other schools in the surrounding area attend this momentous event which honors their academic achievements in front of friends and family. Multiple scholarships of at least $1,000 each are also awarded to qualified 12th grade applicants who have been accepted into college.
 
 The application process for the academic awards and the scholarships have certain requirements and a strict deadline, so we encourage applicants to start the process early.
 
