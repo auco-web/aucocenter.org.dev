@@ -5,8 +5,6 @@ title: "Academic Excellence Awards - 2016"
 meta_descriptions: "Au Co Vietnamese Cultural Center San Francisco Academic Excellence Awards"
 teaser: "Every year the Au Co Vietnamese Cultural Center and the Academic Awards Foundation recognizes students of Vietnamese descent who have excelled academically in an annual awards ceremony."
 header: no
-image:
-    thumb: Thi-Ca-Su-Viet-4-thumb.jpg
 categories:
     - events
 ---
