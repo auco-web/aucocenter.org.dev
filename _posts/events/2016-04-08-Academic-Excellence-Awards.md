@@ -15,17 +15,17 @@ At the end of the academic school year, qualified students from San Francisco sc
 
 The application process for the academic awards and the scholarships have certain requirements and a strict deadline, so we encourage applicants to start the process early.
 
-<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Announcement (English): </span> <a href="http://aucocenter.org/files/2016/awards/2016 LPT Announcement English.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
+<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Announcement (English): </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 LPT Announcement English.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
-<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Announcement (Vietnamese): </span> <a href="http://aucocenter.org/files/2016/awards/2016 LPT Announcement Vietnamese.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
+<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Announcement (Vietnamese): </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 LPT Announcement Vietnamese.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
-<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Registration (English): </span> <a href="http://aucocenter.org/files/2016/awards/2016 LPT Registration English.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
+<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Registration (English): </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 LPT Registration English.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
-<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Registration (Vietnamese): </span> <a href="http://aucocenter.org/files/2016/awards/2016 LPT Registration Vietnamese.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
+<span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Registration (Vietnamese): </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 LPT Registration Vietnamese.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
-<span style="color: #C70216; font-weight: bold;">Scholarship Announcement: </span> <a href="http://aucocenter.org/files/2016/awards/2016 Scholarship Announcement.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
+<span style="color: #C70216; font-weight: bold;">Scholarship Announcement: </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 Scholarship Announcement.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
-<span style="color: #C70216; font-weight: bold;">Scholarship Application: </span> <a href="http://aucocenter.org/files/2016/awards/2016 Scholarship Application.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br /><br />
+<span style="color: #C70216; font-weight: bold;">Scholarship Application: </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 Scholarship Application.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br /><br />
 
 {% include next-previous-post-in-category %}
 
