@@ -15,6 +15,11 @@ At the end of the academic school year, qualified students from San Francisco sc
 
 The application process for the academic awards and the scholarships have certain requirements and a strict deadline, so we encourage applicants to start the process early.
 
+<em>(Please scroll to bottom of page for links to access various related documents including applications)</em>
+
+<!-- img width="100%" src="{{ site.baseurl }}/files/2016/awards/Thiep moi 2016.jpg" -->
+<img width="100%" style="border: 1px solid #cccccc" src="http://aucocenter.org//files/2016/awards/Thiep moi 2016.jpg">
+
 <span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Announcement (English): </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 LPT Announcement English.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
 <span style="color: #C70216; font-weight: bold;">Academic Excellence Awards Announcement (Vietnamese): </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 LPT Announcement Vietnamese.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
