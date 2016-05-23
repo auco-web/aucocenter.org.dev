@@ -15,6 +15,8 @@ At the end of the academic school year, qualified students from San Francisco sc
 
 The application process for the academic awards and the scholarships have certain requirements and a strict deadline, so we encourage applicants to start the process early.
 
+Please click <a href="http://aucocenter.org/files/2016/awards/Quang Cao LPT16-p2.pdf" target="_blank">here for list of award recipients (danh sách các học sinh được lãnh thưởng)</a>.
+
 <em>(Please scroll to bottom of page for links to access various related documents including applications)</em>
 
 <!-- img width="100%" src="{{ site.baseurl }}/files/2016/awards/Thiep moi 2016.jpg" -->
