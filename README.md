@@ -16,3 +16,11 @@
 # Required for jekyll 3.0
 # sudo gem install jekyll-paginate
 # gem install jekyll-gist
+# ---- ALIASES ----
+# alias js='jekyll serve --host localhost --incremental --drafts --config _config.yml,_config_dev.yml &'
+# alias jbd='jekyll build --drafts --config _config.yml,_config_dev.yml'
+# alias jbs='jekyll build --config _config.yml,_config_site.yml'
+# alias git-org='git config --get remote.origin.url'
+# alias git-cache-exit='git credential-cache exit'
+# alias git-cache="git config credential.helper 'cache --timeout=1000'"
+# 
