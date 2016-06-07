@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Academic Excellence Awards - 2016"
 meta_descriptions: "Au Co Vietnamese Cultural Center San Francisco Academic Excellence Awards"
 teaser: "Every year the Au Co Vietnamese Cultural Center and the Academic Awards Foundation recognizes students of Vietnamese descent who have excelled academically in an annual awards ceremony."
@@ -17,7 +17,7 @@ The application process for the academic awards and the scholarships have certai
 
 Please click <a href="http://aucocenter.org/files/2016/awards/Quang Cao LPT16-p2.pdf" target="_blank">here for list of award recipients (danh sách các học sinh được lãnh thưởng)</a>.
 
-<em>(Please scroll to bottom of page for links to access various related documents including applications)</em>
+<em>(Please scroll to bottom of page for links to access various related documents including applications, and video and photo gallery documenting the event after it has occurred)</em>
 
 <!-- img width="100%" src="{{ site.baseurl }}/files/2016/awards/Thiep moi 2016.jpg" -->
 <img width="100%" style="border: 1px solid #cccccc" src="http://aucocenter.org//files/2016/awards/Thiep moi 2016.jpg">
@@ -33,6 +33,25 @@ Please click <a href="http://aucocenter.org/files/2016/awards/Quang Cao LPT16-p2
 <span style="color: #C70216; font-weight: bold;">Scholarship Announcement: </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 Scholarship Announcement.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br />
 
 <span style="color: #C70216; font-weight: bold;">Scholarship Application: </span> <a href="{{ site.baseurl }}/files/2016/awards/2016 Scholarship Application.pdf" target="_blank"><em>click <u>here</u> to view or download</em></a><br /><br />
+
+## Video
+
+<table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
+<tbody>
+<tr style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
+<td align="center" style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
+<p style="text-align: center;"><iframe style="border:1px solid #cccccc" src="https://www.youtube.com/embed/HClC1GpChzg" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## Photo Gallery
+
+Please click on image below to access a dropbox photo gallery of this event.
+
+<a href="https://www.dropbox.com/sh/9dgpz4q1yie8kr6/AAChoDG7i8nU-OJ-ubS9PUlNa?dl=0" target="_blank">
+<img width="100%" style="border: 1px solid #cccccc" src="{{ site.baseurl }}/images/Le-phat-thuong-2016-dropbox-thumbnails.jpg"></a>
 
 {% include next-previous-post-in-category %}
 
