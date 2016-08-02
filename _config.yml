@@ -25,7 +25,7 @@ author: nghin
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 # url: 'http://aucocenter.org'
-url: 'http://nghin.github.io/aucocenter.org.dev'
+url: 'http://auco-web.github.io/aucocenter.org.dev'
 baseurl: ''
 # projectname /seaaccsf.org is needed if nghin.github.io is accessed directly
 projectname: '/aucocenter.org.dev'
@@ -41,7 +41,7 @@ improve_content:
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 # urlimg: 'http://aucocenter.org/images/'
-urlimg: 'http://nghin.github.io/aucocenter.org.dev/images/'
+urlimg: 'http://auco-web.github.io/aucocenter.org.dev/images/'
 
 
 # Logo size is 600x80 pixels
