@@ -18,9 +18,12 @@ header: no
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-Please click here to download <a href="{{ site.url }}/files/2016/Lop-Viet-Ngu-Application/FdonXNH14-7.pdf" target="_blank">Registration Form</a>
+Please click here to download <a href="{{ site.url }}/files/2016/Lop-Viet-Ngu-Application/FdonXNH14-7.pdf" target="_blank">Registration Form</a><br />
+Please scroll down to bottom of page for this year's calendar.
 <br /><br />
 <img style="border: 1px solid #666666;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/files/2016/Lop-Viet-Ngu-Application/Au Co Vnamese Program Flyer_16-17 English.jpg">
 <br /><br />
 <img style="border: 1px solid #666666;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/files/2016/Lop-Viet-Ngu-Application/QCao Ctr Tieng Viet AuCo 16-17-01.jpg">
+<br /><br />
+<img style="border: 1px solid #666666;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/files/2016/Lop-Viet-Ngu-Application/AuCo_16-17_Calendar for Parent and students-1.jpg">
 </div><!-- /.row -->
