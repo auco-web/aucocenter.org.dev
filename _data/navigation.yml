@@ -20,5 +20,7 @@
     url: "/programs/"
   - title: "Brochure"
     url: "/brochure/"
+  - title: "Registration"
+    url: "/programs/vietnamese-language-class-registration/"
   - title: "Directions to Au Co"
     url: "/directions/"
