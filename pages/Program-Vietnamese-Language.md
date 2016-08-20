@@ -2,6 +2,7 @@
 layout: page-fullwidth
 subheadline: "Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center"
 title: "Au Co's Vietnamese Language Program"
+meta_description: "Vietnamese Language Class San Francisco Học Tiếng Việt"
 meta_teaser: "Vietnamese Cultural Center"
 teaser: "The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions for children from 5 through 12 with special exceptions for ages up to 15."
 permalink: /programs/vietnamese-language/
