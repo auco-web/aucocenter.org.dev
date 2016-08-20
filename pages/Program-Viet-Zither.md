@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center"
 title: "Vietnamese Zither Class"
-meta_description: "Hoc Dan Tranh Học Đàn Tranh Learn Zither"
+meta_description: "Hoc Dan Tranh Học Đàn Tranh Learn Zither Master Vo Van Anh Võ Vân Ánh"
 meta_teaser: "Au Co Vietnamese Cultural Center"
 permalink: /programs/viet-zither-class/
 breadcrumb: true
