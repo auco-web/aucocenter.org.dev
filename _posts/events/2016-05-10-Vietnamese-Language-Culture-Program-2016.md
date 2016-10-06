@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Language Classes & Cultural Arts Workshops - 2016"
 meta_descriptions: "Au Co Vietnamese Cultural Center San Francisco Academic Excellence Awards"
 teaser: "Au Co Vietnamese Cultural Center and Southeast Asian Arts and Culture Coalitions is hosting the Five FREE Saturday Vietnamese language classes and South East Asian Summer Cultural Arts Workshops from July 9-August 16. Programs include Burmese, Cambodian, Laos, Thai, and Vietnamese. Open to the public."
