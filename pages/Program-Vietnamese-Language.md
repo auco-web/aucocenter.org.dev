@@ -4,7 +4,7 @@ subheadline: "Au Co&nbsp;&mdash;&nbsp;Vietnamese Cultural Center"
 title: "Au Co's Vietnamese Language Program"
 meta_description: "Vietnamese Language Class San Francisco Học Tiếng Việt"
 meta_teaser: "Vietnamese Cultural Center"
-teaser: "The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions for children from 5 through 12 with special exceptions for ages up to 15."
+teaser: "The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions for children from 5 through 17."
 permalink: /programs/vietnamese-language/
 breadcrumb: true
 header: no
@@ -20,23 +20,21 @@ header: no
 
 ### Target Audience
 
-The Weekend Vietnamese Program serves children from 5 to 12, exception may be granted to those up to 15, case by case.
+The Weekend Vietnamese Program serves children from 5 to 17.
 
 ### Level Classification
 
-The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions. Classes are on Saturday, approximately 3 and a half-hour each. Program for each grade level meets about 40 times/year with 2 semesters and normally follows the schedule of SF public schools.
+The Weekend Vietnamese Program teaches the Vietnamese language and cultural traditions. Classes are on Saturday, approximately 3 and a half-hour each. Program for each grade level meets about 36 times in a year with 2 semesters and normally follows the schedule of SF public schools.
 
 <div>
 The program teaches Vietnamese language for two levels: Basic and Intermediate, and Kindergarten for 5 year-old kids only.
 <ul>
 <li><u>Basic</u>: learn how to read Vietnamese using "spelling" method, learn to speak in Vietnamese</li>
-<li><u>Intermediate</u>: reading comprehension, improving speaking, and writing.</li>
+<li><u>Intermediate</u>: reading comprehension, improving speaking skills, and writing literacy.</li>
 </ul>
 </div>
 
-To attain Basic level, a student must successfully complete Grade Level 1, 2, and 3.
-To attain Intermediate level, students must successfully complete Grade Levels 4, 5, and 6.
-Kindergarten is for 5 year-old kids only.
+To attain Basic level, a student must successfully complete Grade Level 1, 2, 3 and 4. To attain Intermediate level, students must successfully complete Grade Levels 5 and 6. Kindergarten is for 5 year-old kids only.
 
 ### Goals of Class Levels
 
@@ -63,11 +61,11 @@ Kindergarten is for 5 year-old kids only.
 
 ### Textbook & Teaching Materials
 
-Textbooks and teaching materials are written in Vietnamese by grade level to attain the goals of each grade level. Textbooks for Grade Level 1, 2, and 3 are intended for beginners with age from 6 to 8. The materials still can be used to teach beginners who are older than 9, but they may learn at a faster pace.
+Textbooks and teaching materials are written in Vietnamese by grade level to attain the goals of each grade level. Textbooks for Grade Level 1, 2, 3 and 4 are intended for beginners with age from 6 to 9. The materials still can be used to teach beginners who are older than 10, but they may learn at a faster pace.
 
-Textbooks and materials for basic level (Grade Level 1, 2, 3) and K are written using picture to illustrate a word using a syllable learnt.
+Textbooks and materials for basic level (Grade Level 1, 2, 3, 4) and K are written using picture to illustrate a word using a syllable learnt.
 
-Textbooks and materials for intermediate level (Grade Level 4, 5, 6) are written with the purpose of improving reading comprehension and basic writing skill for essay.
+Textbooks and materials for intermediate level (Grade Level 5, 6) are written with the purpose of improving reading comprehension and basic writing skill for essay.
 
 Please read “How to Use Textbook” section of each textbook for more information.
 
@@ -78,13 +76,13 @@ Please read “How to Use Textbook” section of each textbook for more informat
 <li>introduce and educate traditional good behaviors of Vietnamese children</li>
 <li>introduce Vietnamese alphabet and accent marks</li>
 </ul>
-<strong>Contents of textbooks for grade level 1, 2, 3 (Basic Level)</strong>
+<strong>Contents of textbooks for grade level 1, 2, 3, 4 (Basic Level)</strong>
 <ul>
 <li>read Vietnamese by "spelling" method, know the accent marks</li>
 <li>speak Vietnamese fluently</li>
-<li>introduce and educate traditional good behaviors of Vietnamese children</li>
+<li>Introduce and educate traditional good behaviors of Vietnamese children</li>
 </ul>
-<strong>Contents of textbook for grade level 4, 5, 6 (Intermediate level)</strong>
+<strong>Contents of textbook for grade level 5, 6 (Intermediate level)</strong>
 <ul>
 <li>reading comprehension, improving reading and speaking skills</li>
 <li>teaching grammar and sentence structure for writing</li>
@@ -92,5 +90,7 @@ Please read “How to Use Textbook” section of each textbook for more informat
 <li>introducing some Vietnamese legends or historical stories.</li>
 </ul>
 </div>
+
+<strong><em>Vietnamese Language Proficiency Assessment</em></strong> is available. (Please click <a href="{{ site.url }}/programs/language-assessment/">here</a> for more information)
 
 </div><!-- /.row -->
