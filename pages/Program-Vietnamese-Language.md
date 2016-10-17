@@ -91,6 +91,6 @@ Please read “How to Use Textbook” section of each textbook for more informat
 </ul>
 </div>
 
-<strong><em>Vietnamese Language Proficiency Assessment</em></strong> is available. (Please click <a href="{{ site.url }}/programs/language-assessment/">here</a> for more information)
+<!-- <strong><em>Vietnamese Language Proficiency Assessment</em></strong> is available. (Please click <a href="{{ site.url }}/programs/language-assessment/">here</a> for more information) -->
 
 </div><!-- /.row -->
