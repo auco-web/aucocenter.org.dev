@@ -56,6 +56,14 @@ Video of event by Viet Vung Vinh:
 
 <hr />
 
+Photo Gallery of event—please click on image to view gallery at Flickr.com.
+<br />
+<br />
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/28613838@N06/m75dAy" target="_blank" title="Mid-Autumn Harvest Festival 2016"><img alt="Mid-Autumn Harvest Festival 2016" height="auto" src="https://c5.staticflickr.com/9/8414/30363664756_7662d7436b_k.jpg" width="100%" /></a><script async="" charset="utf-8" src="//embedr.flickr.com/assets/client-code.js"></script>
+<br />
+<br />
+
+
 <strong>When: Saturday, September 17, 2016 &mdash; 11:30 a.m. - 4 p.m.<br />
 Where: Tenderloin Recreation Center &mdash; 570 Ellis Street, San Francisco CA 94109</strong>
 
