@@ -26,13 +26,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-sitemap (0.11.0)
-      addressable (~> 2.4.0)
-    jekyll-tagging (1.0.1)
-      ruby-nuggets
-    jekyll-tagging-related_posts (0.2.1)
-      jekyll (~> 3.0)
-      jekyll-tagging (~> 1.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -42,7 +35,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     multipart-post (2.0.0)
-    nuggets (1.0.0)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -51,8 +43,6 @@ GEM
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
-    ruby-nuggets (1.0.0)
-      nuggets (= 1.0.0)
     safe_yaml (1.0.4)
     sass (3.4.23)
     sassy-maps (0.4.0)
@@ -69,8 +59,6 @@ DEPENDENCIES
   jekyll
   jekyll-gist
   jekyll-paginate
-  jekyll-sitemap
-  jekyll-tagging-related_posts
 
 BUNDLED WITH
    1.13.3
