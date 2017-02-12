@@ -24,3 +24,4 @@
 # alias git-cache-exit='git credential-cache exit'
 # alias git-cache="git config credential.helper 'cache --timeout=1000'"
 # 
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=auco-web&repoName=aucocenter.org.dev&branch=gh-pages&pipelineName=aucocenter.org.dev&accountName=nghin&type=cf-1)]( https://g.codefresh.io/repositories/auco-web/aucocenter.org.dev/builds?filter=trigger:build;branch:gh-pages;service:58990ecfc95b710100d784ac~aucocenter.org.dev)
