@@ -1,22 +1,21 @@
 ---
 layout: page-fullwidth
 subheadline: "Upcoming Event"
-title: "Thi Ca & Sử Việt 5"
+title: "42 Years of Vietnamese Refugee Resettlement"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
-teaser: "Join us for a day of cultural appreciation through music and arts presented by the Au Co Vietnamese Cultural Center and Auco Productions. This rich program will include singing, dancing,folk opera excerpts, and musical performances ..."
+teaser: "This public cultural event will feature an exhibition and program to mark the 42nd anniversary of the Vietnamese diaspora and refugee resettlement."
 header: no
 image:
-    thumb: Thi-Ca-Su-Viet-5-thumb.jpg
+    thumb: 42-Years-Refugee-thumb.jpg
 categories:
     - events
 ---
 <!--more-->
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
-<span style="color: #C70216; font-weight: bold;">Tickets for this event can be purchased here:</span> <a href="http://www.brownpapertickets.com/event/2813002" target="_blank">http://www.brownpapertickets.com/event/2813002</a><br />
-<!-- <span style="color: #555; font-style: italic;">(Note: Please scroll down to bottom of page to view videos of past performances)</span> -->
+This exhibition shares the refugee experience and celebrates the achievements of the Vietnamese people worldwide through photography, first-person narratives, and historical artifacts.  It includes stories of loss, of navigating cultural identities between different generations, and of the process of rebuilding a new life in a foreign environment. Speakers feature community scholars, social service workers, guest speakers from community partners, and literary artists. There will also be a presentation of the cultural ceremony “Lễ Giỗ Tổ Hùng Vương” honoring the Hùng Kings, founding fathers of Vietnam, as well as a cultural music performance by the Su Viet Zithers and a traditional folklore performance by San Francisco Vietnamese “Cải Lương” Folklore Group.
 
-<img width="100%" style="border: 1px solid #cccccc;" src="{{ site.baseurl }}/images/Thi-Ca-Su-Viet-5-2017.jpg">
+<img width="100%" style="border: 1px solid #cccccc;" src="{{ site.baseurl }}/images/42-Years-Refugee.jpg">
 
 <!--
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
