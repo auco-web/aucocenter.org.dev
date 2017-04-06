@@ -17,6 +17,28 @@ This exhibition shares the refugee experience and celebrates the achievements of
 
 <img width="100%" style="border: 1px solid #cccccc;" src="{{ site.baseurl }}/images/42-Years-Refugee.jpg">
 
+### Program
+
+Time______________________ | Performance
+------------- | ---
+10:30 – 11:00 | Lion Dance
+11:00 – 11:30 | Salute the Flag and Opening Remarks
+11:30 – 11:50 | Le Gio To Hung Vuong, Honoring the Hung Kings
+11:50 – 12:10 | Le Quoc Han, Memorializing April 30, Saigon Fall
+12:10 – 01:30 | 42 Years – Memorializing the Search for Freedom and Liberty, and Commemorating the Resettlement of the Vietnamese Refugees
+01:30 – 02:00 | Refreshment
+
+### Chương Trình
+
+Time______________________ | Tiết Mục
+------------- | ---
+10:30 – 11:00 | Múa lân
+11:00 – 11:30 | Chào cờ và Khai mạc
+11:30 – 11:50 | Lễ Giỗ Tổ Hùng Vương
+11:50 – 12:10 | Lễ Quốc Hận 30 tháng Tư
+12:10 – 01:30 | 42 Năm – Lễ Tưởng Niệm Sự Hy Sinh Trên Hành Trình Tìm Tự Do, và Kỷ Niệm Sự Hình Thành Cộng Đồng Việt Nam tại Hải Ngoại
+01:30 – 02:00 | Ẩm thực
+
 <!--
 <table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
 <tbody>
