@@ -1,6 +1,9 @@
 # aucocenter.org
 # Great resource for getting unicode index of special Vietnamese characters
 # http://www.fileformat.info/info/unicode/char/search.htm?q=%E1%BA%A3&preview=entity
+# ---- DOCKER ----
+# start jekyll for local testing on docker/ubuntu:
+# jekyll serve --host 0.0.0.0 --incremental --config _config.yml,_config_dev.yml &
 # ---- UBUNTU ----
 # start jekyll for local testing on ubuntu:
 # jekyll serve --host 127.0.0.1 --incremental --config _config.yml,_config_dev.yml &
@@ -24,4 +27,11 @@
 # alias git-cache-exit='git credential-cache exit'
 # alias git-cache="git config credential.helper 'cache --timeout=1000'"
 # 
-[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=auco-web&repoName=aucocenter.org.dev&branch=gh-pages&pipelineName=aucocenter.org.dev&accountName=nghin&type=cf-1)]( https://g.codefresh.io/repositories/auco-web/aucocenter.org.dev/builds?filter=trigger:build;branch:gh-pages;service:58990ecfc95b710100d784ac~aucocenter.org.dev)
+# Docker stuff
+# apt-get install -y locales
+# dpkg-reconfigure locales &&  locale-gen C.UTF-8 &&  /usr/sbin/update-locale LANG=C.UTF-8
+# dpkg-reconfigure locales &&  locale-gen en_US.UTF-8 &&  /usr/sbin/update-locale LANG=en_US.UTF-8
+# echo 'en_US.UTF-8 UTF-8' >> /etc/locale.gen &&   locale-gen
+# export LC_ALL=C.UTF-8
+# export LANG=en_US.UTF-8
+# export LANGUAGE=en_US.UTF-8

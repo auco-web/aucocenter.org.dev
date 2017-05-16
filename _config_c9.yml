@@ -5,10 +5,10 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'https://website-aucocenter.c9users.io:8080'
+url: 'https://vacsf-nghin.c9users.io:8080'
 baseurl: ''
 projectname: ''
-urlimg: 'https://website-aucocenter.c9users.io:8080/images/'
+urlimg: 'https://vacsf-nghin.c9users.io:8080/images/'
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
