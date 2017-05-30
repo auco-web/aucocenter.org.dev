@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "42 Years of Vietnamese Refugee Resettlement"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "This public cultural event will feature an exhibition and program to mark the 42nd anniversary of the Vietnamese diaspora and refugee resettlement."

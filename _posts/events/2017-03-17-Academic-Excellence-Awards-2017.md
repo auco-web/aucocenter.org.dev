@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Academic Excellence Awards - 2017"
 meta_descriptions: "Au Co Vietnamese Cultural Center San Francisco Academic Excellence Awards"
 teaser: "Every year the Au Co Vietnamese Cultural Center and the Academic Awards Foundation recognizes students of Vietnamese descent who have excelled academically in an annual awards ceremony."

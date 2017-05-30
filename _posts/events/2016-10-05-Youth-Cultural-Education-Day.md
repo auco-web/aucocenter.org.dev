@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Youth Cultural Education Day"
 meta_descriptions: "Youth Cultural Education. Southeast Asian Arts and Cultural Coalition. San Francisco"
 teaser: "Au Co Vietnamese Cultural Center is hosting FREE Youth Cultural Education Day."
