@@ -9,6 +9,22 @@ categories:
     - events
 ---
 <!--more-->
+## Updates: Video & Photos
+
+Please click <a href="https://www.dropbox.com/sh/12rai2sklxu9mzg/AACeUS5fCA3uoh8cqW5yxutwa?dl=0" target="_blank">here</a> for photos of event.
+
+<table style="border-color: #cccccc; margin-left: auto; margin-right: auto;" border="1" width="100%">
+<tbody>
+<tr style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
+<td align="center" style="padding: 2rem 0.625rem 0.5625rem 0.625rem">
+<p style="text-align: center;"><iframe style="border:1px solid #cccccc" src="https://www.youtube.com/embed/4I3wPxG3g08" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
 <img width="100%" style="border: 1px solid #cccccc" src="/files/2017/awards/Quang Cao LPT17-p1.jpg">
