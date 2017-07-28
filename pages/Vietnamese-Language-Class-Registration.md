@@ -18,7 +18,7 @@ header: no
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 
-Please click here to download <a href="{{ site.url }}/files/registration-form.docx" target="_blank">Registration Form</a><br />
+Please click here to download <a href="{{ site.url }}/files/registration/registration-form.docx" target="_blank">Registration Form</a><br />
 Please scroll down to bottom of page for this year's calendar.
 <br /><br />
 <img style="border: 1px solid #666666;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/files/registration/Flyer-English.jpg">
