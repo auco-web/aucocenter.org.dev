@@ -21,7 +21,7 @@ To preserve and promote traditional music, Au Co Vietnamese Cultural Center is e
 
 Please scroll down to bottom of page for this year's calendar.
 
-<img width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/Dan Tranh flyer 2016.jpg">
+<img style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #cccccc;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/Zither - flyer.jpg">
 <br /><br />
-<img style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #cccccc;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/files/2016/Zither - Dan Tranh class calendar 16-17.jpg">
+<img style="display: block; margin-left: auto; margin-right: auto; border: 1px solid #cccccc;" width="100%" height="auto" align="center" alt="" src="{{ site.url }}/images/Zither - calendar.jpg">
 </div><!-- /.row -->
