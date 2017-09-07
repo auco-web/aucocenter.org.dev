@@ -17,7 +17,7 @@ header: no
 </div><!-- /.medium-4.columns -->
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-To preserve and promote traditional music, Au Co Vietnamese Cultural Center is enrolling new students for the "Đàn Tranh" (Vietnamese Zither) class. Students must be 6 years of age or older. Class size is limited to 5 students. The first session will start on October 1<sup>st</sup>, 2016 for every Saturday.
+To preserve and promote traditional music, Au Co Vietnamese Cultural Center is enrolling new students for the "Đàn Tranh" (Vietnamese Zither) class. Students must be 6 years of age or older. Class size is limited to 5 students.
 
 Please scroll down to bottom of page for this year's calendar.
 
