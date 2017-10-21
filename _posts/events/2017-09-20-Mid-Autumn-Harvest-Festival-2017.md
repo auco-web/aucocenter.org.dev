@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Mid-Autumn Harvest Festival - 2017"
 meta_descriptions: "Mid-Autumn Harvest Festival - 2017. Southeast Asian Arts and Cultural Coalition. San Francisco"
 teaser: "You're cordially invited to attend the seventh Southeast Asian Arts & Culture Exhibition celebrating the mid-autumn harvest season!"
