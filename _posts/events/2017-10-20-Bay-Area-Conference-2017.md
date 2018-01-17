@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Bay Area Vietnamese Language & Culture Conference - 2017"
 meta_descriptions: "Au Co Vietnamese Cultural Center"
 teaser: "A conference for individuals who are currently helping children to learn Vietnamese language in their communities. Current community teachers & staff members will attend, as well as professionals who will share their teaching skills and experiences."
