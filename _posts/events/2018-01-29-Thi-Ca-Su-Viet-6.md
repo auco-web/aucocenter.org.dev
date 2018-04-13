@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Upcoming Event"
+subheadline: "Past Event"
 title: "Thi Ca & Sử Việt 6"
 meta_teaser: "Au Co Vietnamese Cultural Center San Francisco"
 teaser: "Join us for a day of cultural appreciation through music and arts presented by the Au Co Vietnamese Cultural Center and Auco Productions. This rich program will include singing, dancing,folk opera excerpts, and musical performances ..."
